@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['D:\\py\\28102024fcopy\\run.py'],
+    ['D:\\py\\run.py'],
     pathex=[],
     binaries=[],
     datas=[],
