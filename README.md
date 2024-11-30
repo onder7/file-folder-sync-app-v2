@@ -1,4 +1,9 @@
-# Dosya Senkronizasyon Uygulaması
+# Dosya / Klasör Senkronizasyon Uygulaması
+# File /Folder Synchronization Application
+
+
+[ENGLISH](EN-README.md)
+
 ![image](https://github.com/user-attachments/assets/4c450c78-b549-4722-b68a-186c57cbe667)
 
 ## Özellikler
