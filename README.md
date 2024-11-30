@@ -1,4 +1,5 @@
 # Dosya Senkronizasyon Uygulaması
+![image](https://github.com/user-attachments/assets/4c450c78-b549-4722-b68a-186c57cbe667)
 
 ## Özellikler
 - Klasör ve dosya bazlı senkronizasyon
