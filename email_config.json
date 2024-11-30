@@ -1,0 +1,11 @@
+{
+    "smtp_server": "",
+    "smtp_port": 587,
+    "username": "",
+    "password": "",
+    "from_email": "",
+    "to_emails": [
+        "onder7@gmail.com"
+    ],
+    "use_ssl": true
+}

@@ -1,0 +1,14 @@
+# Klasör yapısı :
+file_sync_app/
+    ├── __init__.py
+    ├── src/
+    │   ├── __init__.py
+    │   ├── sync_config.py    
+    │   ├── sync_stats.py
+    │   ├── exceptions.py
+    │   ├── file_sync.py
+    │   ├── gui_components.py
+    │   └── main_gui.py
+    ├── logs/
+    ├── README.md
+    └── requirements.txt
