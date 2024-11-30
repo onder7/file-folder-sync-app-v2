@@ -1,7 +1,7 @@
 # File Synchronization Application
 
 [Türkçe](README.md)
-
+![image](https://github.com/user-attachments/assets/4c450c78-b549-4722-b68a-186c57cbe667)
 ## Features
 - Folder and file-based synchronization
 - Automatic synchronization and scheduling
